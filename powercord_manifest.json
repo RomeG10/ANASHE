@@ -1,0 +1,9 @@
+{
+    "name": "ANASHE",
+    "description": "Alucinogeno.",
+    "version": "1",
+    "author": "Bidon Veider #0805",
+    "theme": "ANASHE.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
